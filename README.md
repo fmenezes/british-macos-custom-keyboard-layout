@@ -17,7 +17,11 @@ This is a custom keyboard layout to allow type latin chars in the British keyboa
 
 ## Installation
 
-Copy the bundle file to `/Library/Keyboard Layouts/` and go to `System Preferences -> Keyboard -> Input Sources` and add the new `British - PC custom`.
+### Manually
+Copy the bundle file to `~/Library/Keyboard Layouts/` and go to `System Preferences -> Keyboard -> Input Sources` and add the new `British - PC custom`.
+
+### Automated
+Run this script `sh -c "$(curl -fsSL https://raw.githubusercontent.com/fmenezes/british-mac-pc-custom-keyboard-layout/master/script/install.sh)"`
 
 ## Notes
 
