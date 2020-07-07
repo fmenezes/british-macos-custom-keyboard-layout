@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-03-26 at 12:58 (GMT)-->
+<!--Last edited by Ukelele version 3.4.2.314 on 2020-07-07 at 17:01 (IST)-->
 <keyboard group="126" id="-23964" name="British - PC custom" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -1076,10 +1076,10 @@
     <terminators>
         <when state="ACUTE" output="´"/>
         <when state="APOSTROPHE" output="&#x0027;"/>
-        <when state="CIRCUMFLEX" output="ˆ"/>
+        <when state="CIRCUMFLEX" output="^"/>
         <when state="DIARESIS" output="¨"/>
         <when state="GRAVE ACCENT" output="`"/>
         <when state="QUOTATION MARK" output="&#x0022;"/>
-        <when state="TILDE" output="˜"/>
+        <when state="TILDE" output="~"/>
     </terminators>
 </keyboard>
