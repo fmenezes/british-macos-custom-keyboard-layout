@@ -1,27 +1,26 @@
-# British - PC custom
-This is a custom keyboard layout to allow type latin chars in the British keyboard for Macbook. Also compatible with Apple external keyboard in British English keyboard layout.
+# British (Latin)
+This is a custom keyboard layout to allow typing Latin chars in the British keyboard for Macbook. Also compatible with Apple external keyboard in British English keyboard layout.
 
 ## Typing Latin chars
 
-| Key | Letter | Result |
+You'll need to hold Option before the main char
+
+| Character | Letter | Result |
 |---|---|---|
 | ` | a | à |
 | ^ | e | ê |
 | ' | i | í |
 | ~ | o | õ |
 | " | u | ü |
-
-## Drawbacks
-
-* To type any of the following ` " ' ^ ~ you will need to follow with space bar
+| ' | c | ç |
 
 ## Installation
 
 ### Manually
-Copy the bundle file to `~/Library/Keyboard Layouts/` and go to `System Preferences -> Keyboard -> Input Sources` and add the new `British - PC custom`.
+Copy the bundle file to `~/Library/Keyboard Layouts/` and go to `System Preferences -> Keyboard -> Input Sources` and add the new `British (Latin)`.
 
 ### Automated
-Run this script `sh -c "$(curl -fsSL https://raw.githubusercontent.com/fmenezes/british-mac-pc-custom-keyboard-layout/master/script/install.sh)"`
+Run this script `sh -c "$(curl -fsSL https://raw.githubusercontent.com/fmenezes/british-macos-custom-keyboard-layout/master/script/install.sh)"`
 
 ## Notes
 

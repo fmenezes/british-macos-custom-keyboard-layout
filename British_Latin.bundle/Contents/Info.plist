@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.british-pccustom</string>
+	<string>org.sil.ukelele.keyboardlayout.british(latin)</string>
 	<key>CFBundleName</key>
-	<string>British - PC custom</string>
+	<string>British (Latin)</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.1</string>
-	<key>KLInfo_British - PC custom</key>
+	<string>0.0.1</string>
+	<key>KLInfo_British (Latin)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.british-pccustom.british-pccustom</string>
+		<string>org.sil.ukelele.keyboardlayout.british(latin).british(latin)</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
