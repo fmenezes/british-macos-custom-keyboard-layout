@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pkgbuild --component "British (Latin).bundle" "British (Latin).pkg"
+pkgbuild --install-location "/Library/Keyboard Layouts" --component "British (Latin).bundle" "British (Latin).pkg"
