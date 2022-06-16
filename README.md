@@ -17,10 +17,10 @@ You'll need to hold Option before the main char
 ## Installation
 
 ### Manually
-Copy the bundle file to `~/Library/Keyboard Layouts/` and go to `System Preferences -> Keyboard -> Input Sources` and add the new `British (Latin)`.
+On the latest release that should be a `British (Latin).pkg` file, just open it and follow steps.
 
-### Automated
-Run this script `sh -c "$(curl -fsSL https://raw.githubusercontent.com/fmenezes/british-macos-custom-keyboard-layout/master/script/install.sh)"`
+### Brew
+Run this script `brew install fmenezes/tap/british-latin-keyboard`
 
 ## Notes
 
